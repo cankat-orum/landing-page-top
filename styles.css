@@ -181,3 +181,13 @@
     border-color: #F9FAF8;
 	text-align: center;
 }
+
+.footer-container {
+    background-color: #1F2937;
+    padding: 25px 175px;
+}
+
+.footer-container div {
+    color: #F9FAF8;
+    text-align: center;
+}
