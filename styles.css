@@ -72,7 +72,7 @@
 }
 
 .header-content-text button {
-	background: #339dff;
+	background: #3882f6;
 	color: #fff;
 	text-decoration: none;
 	font-size: 13px;
@@ -152,4 +152,32 @@
 
 .quote-text h3 {
     text-align: end;
+}
+
+.cta {
+    max-width:950px;
+    margin: 0 auto;
+    padding: 65px 0;
+}
+
+.cta-content {
+    background-color: #3882f6;
+    padding: 30px 75px;
+    display: flex;
+}
+
+.cta-content > * {
+    flex: 1;
+    color: #F9FAF8;
+}
+
+.cta-content button{
+    background: #3882f6;
+	color: #fff;
+	text-decoration: none;
+	font-size: 24px;
+	line-height: 38px;
+	border-radius: 10px;
+    border-color: #F9FAF8;
+	text-align: center;
 }
