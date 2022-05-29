@@ -128,3 +128,28 @@
 .section-box-text {
     text-align: center;
 }
+
+.quote-section-container{
+    background-color: #E5E7EB;
+}
+
+.quote-section {
+    max-width:1100px;
+    margin: 0 auto;
+    padding: 50px;
+}
+
+.quote-text {
+    padding: 0 150px;
+    margin: 50px 0;
+}
+
+.quote-text p {
+    font-size: 36px;
+    color: #1F2937;
+    font-style: italic;
+}
+
+.quote-text h3 {
+    text-align: end;
+}
